@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and other unnecessary files
+*.log
+*.bak
